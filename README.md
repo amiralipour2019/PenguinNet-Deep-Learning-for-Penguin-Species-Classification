@@ -29,6 +29,7 @@ The model is trained over 100 epochs, showcasing an impressive convergence and g
 │   └── penguin_classifier.pt   # Trained model weights
 ├── README.md
 └── LICENSE
+```
 ## Results
 The trained PenguinNet model achieves a 99% accuracy on the validation dataset. The confusion matrix and loss graphs,
 illustrating the model's performance, can be found in the results section within the repository.
